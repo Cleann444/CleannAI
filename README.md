@@ -1,3 +1,9 @@
+| ADDING THIS                   | PROS |
+|-------------------------------|------|
+| Adaptive Multi-Model Predictor|Faster|
+| Weighted Polynomial Regression|+flick|
+| Holt-Winters Triple Smoothing |+math |
+|-------------------------------|------|
 # CleannAI Premium – AI-Powered Overlay
 
 High-performance AI aimbot with TensorRT inference, DXGI screen capture, and Dear ImGui overlay.
